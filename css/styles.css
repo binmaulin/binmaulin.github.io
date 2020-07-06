@@ -13,3 +13,16 @@
   color: gray;
   text-decoration: none;
 }
+
+ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+ul li
+{
+    background-repeat: no-repeat;
+    background-position: 0px 5px; 
+    padding-left: 14px; 
+}
