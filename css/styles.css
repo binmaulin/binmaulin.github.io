@@ -1,9 +1,17 @@
+html {
+  padding: 5%;
+}
+
 * {
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
   font-family: STFangsong, FangSong, serif;
 }
 
+p ul{
+  font-size: 16px;
+}
+  
 .bluea {
   color: blue;
   text-decoration: none;
