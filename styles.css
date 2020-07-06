@@ -1,0 +1,14 @@
+html {
+  writing-mode: vertical-rl;
+  -webkit-writing-mode: vertical-rl;
+}
+
+.bluea {
+  color: blue;
+  text-decoration: none;
+}
+
+.graya {
+  color: gray;
+  text-decoration: none;
+}
