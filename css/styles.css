@@ -1,7 +1,7 @@
 html {
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
-  font-family: serif, STFangSong, FangSong, STSong, NSimSun, SimSun;
+  font-family: serif, "STFangSong", "FangSong", "STSong", "NSimSun", "SimSun";
 }
 
 .bluea {
