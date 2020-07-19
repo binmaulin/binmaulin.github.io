@@ -1,15 +1,12 @@
 html {
-  margin: auto;
-}
-
-* {
+  margin-bottom: 5%;
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
   font-family: serif;
 }
 
 p ul{
-  font-size: 4vmin;
+  font-size: 5vmin;
 }
   
 .bluea {
