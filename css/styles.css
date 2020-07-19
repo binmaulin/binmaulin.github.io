@@ -1,5 +1,5 @@
 html {
-  padding: 2%;
+  margin: auto;
 }
 
 * {
@@ -10,7 +10,7 @@ html {
 }
 
 p ul{
-  //font-size: 10vmin;
+  //font-size: 5vmin;
 }
   
 .bluea {
