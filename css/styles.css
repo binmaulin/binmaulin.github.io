@@ -5,11 +5,12 @@ html {
 * {
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
-  font-family: STFangsong, FangSong, serif;
+  font-family: serif;
+  font-size: 10vmin;
 }
 
 p ul{
-  font-size: 26px;
+  //font-size: 10vmin;
 }
   
 .bluea {
