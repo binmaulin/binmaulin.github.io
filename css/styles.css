@@ -10,18 +10,12 @@ html {
   font-size: 5vmin;
 }
 
-/*
-p ul{
-  font-size: 300%;
-}
-*/
-
-.bluea {
+#bluea {
   color: blue;
   text-decoration: none;
 }
 
-.gray {
+#gray {
   color: gray;
   text-decoration: none;
 }
