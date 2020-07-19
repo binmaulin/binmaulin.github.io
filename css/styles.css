@@ -6,11 +6,10 @@ html {
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
   font-family: serif;
-  font-size: 5vmin;
 }
 
 p ul{
-  //font-size: 5vmin;
+  font-size: 3vmin;
 }
   
 .bluea {
