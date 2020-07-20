@@ -6,6 +6,10 @@ html {
   font-family: serif;
 }
 
+h1 {
+  font-weight: normal;
+}
+
 .content {
   font-size: 5vmin;
 }
