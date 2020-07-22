@@ -8,10 +8,11 @@ html {
 
 h1 {
   font-weight: normal;
+  font-size: 3em;
 }
 
 .content {
-  font-size: 200%;
+  font-size: 135%;
 }
 
 .bluea {
