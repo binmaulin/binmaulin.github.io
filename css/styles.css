@@ -1,5 +1,5 @@
 html {
-  margin-top: 5%;
+  margin-top: 2%;
   margin-bottom: 7%;
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
@@ -11,7 +11,7 @@ h1 {
 }
 
 .content {
-  font-size: 4vmin;
+  font-size: 200%;
 }
 
 .bluea {
