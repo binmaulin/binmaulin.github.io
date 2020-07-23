@@ -5,7 +5,7 @@ body {
   writing-mode: vertical-rl;
   writing-mode: tb-rl;
   -webkit-writing-mode: vertical-rl;
-  font-family: serif;
+  font-family: 'Song', serif;
   text-align: justify;
   text-justify: inter-ideograph;
 }
