@@ -1,6 +1,7 @@
-html {
-  margin-top: 2%;
-  margin-bottom: 7%;
+body {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
   writing-mode: vertical-rl;
   -webkit-writing-mode: vertical-rl;
   font-family: serif;
@@ -21,6 +22,6 @@ h1 {
 }
 
 .gray {
-  color: gray;
+  color: dimgray;
   text-decoration: none;
 }
