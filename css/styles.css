@@ -8,6 +8,7 @@ body {
   font-family: 'Song', serif;
   text-align: justify;
   text-justify: inter-ideograph;
+  -webkit-text-size-adjust: none;
 }
 
 h1 {
