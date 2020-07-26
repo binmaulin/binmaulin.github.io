@@ -30,8 +30,13 @@ h1 {
   text-decoration: none;
 }
 
-.gray {
+.graya {
   font-size: 0.8em;
+  color: dimgray;
+  text-decoration: none;
+}
+
+.gray {
   color: dimgray;
   text-decoration: none;
 }
