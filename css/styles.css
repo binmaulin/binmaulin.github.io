@@ -1,16 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
 
 body {
-  max-width: 40em;
-  margin: 0 auto;
-  padding-top: 20px;
-  padding-bottom: 30px;
+  margin: auto;
+  padding: 20px 0 30px 40px;
   writing-mode: vertical-rl;
   writing-mode: tb-rl;
   -webkit-writing-mode: vertical-rl;
   font-family: 'Noto Serif TC', serif;
   text-align: justify;
-  text-justify: inter-ideograph;
   font-size: 100%;
   overflow-x: auto;
   overflow-y: hidden;
