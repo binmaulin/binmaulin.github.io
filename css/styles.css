@@ -31,6 +31,7 @@ h1 {
 }
 
 .gray {
+  font-size: 0.8em;
   color: dimgray;
   text-decoration: none;
 }
