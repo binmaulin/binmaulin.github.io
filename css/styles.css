@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
 
 body {
-  margin: 0;
+  margin: auto;
   padding: 20px 0 30px 1px;
   writing-mode: vertical-rl;
   writing-mode: tb-rl;
