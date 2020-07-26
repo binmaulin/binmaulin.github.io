@@ -1,4 +1,6 @@
 body {
+  width: 100%;
+  hight: 100%;
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom: 30px;
@@ -8,7 +10,7 @@ body {
   font-family: 'Song', serif;
   text-align: justify;
   text-justify: inter-ideograph;
-  font-size: 0.7cm;
+  font-size: 26px;
   overflow-y: hidden;
 }
 
