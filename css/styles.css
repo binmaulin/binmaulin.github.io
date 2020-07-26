@@ -10,7 +10,7 @@ body {
   font-family: 'Song', serif;
   text-align: justify;
   text-justify: inter-ideograph;
-  font-size: 26px;
+  font-size: 100%;
   overflow-x: auto;
   overflow-y: hidden;
 }
@@ -21,7 +21,7 @@ h1 {
 }
 
 .content {
-  font-size: 1em;
+  font-size: 1.7em;
 }
 
 .bluea {
