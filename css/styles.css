@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+
 body {
   max-width: 40em;
   margin: 0 auto;
@@ -6,7 +8,7 @@ body {
   writing-mode: vertical-rl;
   writing-mode: tb-rl;
   -webkit-writing-mode: vertical-rl;
-  font-family: 'Song', serif;
+  font-family: 'Noto Serif TC', serif;
   text-align: justify;
   text-justify: inter-ideograph;
   font-size: 100%;
