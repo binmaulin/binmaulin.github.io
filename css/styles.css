@@ -4,9 +4,9 @@ body {
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom: 30px;
-  writing-mode: vertical-rl;
-  writing-mode: tb-rl;
-  -webkit-writing-mode: vertical-rl;
+  //writing-mode: vertical-rl;
+  //writing-mode: tb-rl;
+  //-webkit-writing-mode: vertical-rl;
   font-family: 'Song', serif;
   text-align: justify;
   text-justify: inter-ideograph;
