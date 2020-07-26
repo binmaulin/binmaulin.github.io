@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Noto Serif TC';
-  src: url("../fonts/NotoSerifTC-Regular.otf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
 
 body {
   margin: auto;
